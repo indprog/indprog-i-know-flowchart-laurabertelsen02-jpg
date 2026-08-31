@@ -1,0 +1,7 @@
+This process helps decide when to work out.
+
+The user first inputs whether there is school that day. If there is no school, the workout is scheduled for the middle of the day.
+If there is school, the user is asked whether they are willing to wake up early.If the answer is Yes, the workout is scheduled for the morning. 
+If the answer is No, the workout is scheduled for the evening.
+
+The selected workout time is then output to the user, and the process ends.
